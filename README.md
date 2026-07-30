@@ -1,3 +1,27 @@
+# 🧩 LeetCode Solutions in Java
+
+A collection of my LeetCode solutions written in **Java**, focused on Data Structures & Algorithms and problem solving.
+
+## 📊 Progress
+
+- ✅ Problems Solved: **5**
+- ☕ Language: **Java**
+- 🎯 Focus: **DSA & Technical Interview Preparation**
+
+## 🚀 Problems Solved
+
+| # | Problem | Difficulty |
+|---|---|---|
+| 1 | Two Sum | Easy |
+| 2 | Add Two Numbers | Medium |
+| 3 | Longest Substring Without Repeating Characters | Medium |
+| 7 | Reverse Integer | Medium |
+| 9 | Palindrome Number | Easy |
+
+---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
 # leetcode-java
 <!---LeetCode Topics Start-->
 # LeetCode Topics
