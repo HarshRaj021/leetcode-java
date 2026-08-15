@@ -26,6 +26,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshRaj021/leetcode-java/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/HarshRaj021/leetcode-java/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,4 +66,12 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/HarshRaj021/leetcode-java/tree/master/0029-divide-two-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/HarshRaj021/leetcode-java/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/HarshRaj021/leetcode-java/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
