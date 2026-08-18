@@ -34,6 +34,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshRaj021/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/HarshRaj021/leetcode-java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HarshRaj021/leetcode-java/tree/master/0013-roman-to-integer) |
+| [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 ## Linked List
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0013-roman-to-integer](https://github.com/HarshRaj021/leetcode-java/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/HarshRaj021/leetcode-java/tree/master/0029-divide-two-integers) |
 | [0509-fibonacci-number](https://github.com/HarshRaj021/leetcode-java/tree/master/0509-fibonacci-number) |
+| [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 ## Recursion
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0008-string-to-integer-atoi](https://github.com/HarshRaj021/leetcode-java/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/HarshRaj021/leetcode-java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HarshRaj021/leetcode-java/tree/master/0013-roman-to-integer) |
+| [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshRaj021/leetcode-java/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/HarshRaj021/leetcode-java/tree/master/0509-fibonacci-number) |
+| [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 ## Manacher
 |  |
 | ------- |
