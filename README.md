@@ -73,6 +73,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0013-roman-to-integer](https://github.com/HarshRaj021/leetcode-java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HarshRaj021/leetcode-java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HarshRaj021/leetcode-java/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/HarshRaj021/leetcode-java/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshRaj021/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 ## Sliding Window
@@ -101,6 +102,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarshRaj021/leetcode-java/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/HarshRaj021/leetcode-java/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/HarshRaj021/leetcode-java/tree/master/0509-fibonacci-number) |
 | [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 ## Manacher
@@ -127,6 +129,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarshRaj021/leetcode-java/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/HarshRaj021/leetcode-java/tree/master/0022-generate-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -143,4 +146,8 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshRaj021/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/HarshRaj021/leetcode-java/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
