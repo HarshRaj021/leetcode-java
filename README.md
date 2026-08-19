@@ -68,6 +68,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0012-integer-to-roman](https://github.com/HarshRaj021/leetcode-java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HarshRaj021/leetcode-java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HarshRaj021/leetcode-java/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/HarshRaj021/leetcode-java/tree/master/0020-valid-parentheses) |
 | [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 ## Sliding Window
 |  |
@@ -110,4 +111,12 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HarshRaj021/leetcode-java/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/HarshRaj021/leetcode-java/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/HarshRaj021/leetcode-java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
