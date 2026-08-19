@@ -27,6 +27,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | ------- |
 | [0001-two-sum](https://github.com/HarshRaj021/leetcode-java/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HarshRaj021/leetcode-java/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/HarshRaj021/leetcode-java/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshRaj021/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/HarshRaj021/leetcode-java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HarshRaj021/leetcode-java/tree/master/0013-roman-to-integer) |
+| [1386-cinema-seat-allocation](https://github.com/HarshRaj021/leetcode-java/tree/master/1386-cinema-seat-allocation) |
 | [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 ## Linked List
 |  |
@@ -73,6 +75,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/HarshRaj021/leetcode-java/tree/master/0029-divide-two-integers) |
+| [1386-cinema-seat-allocation](https://github.com/HarshRaj021/leetcode-java/tree/master/1386-cinema-seat-allocation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HarshRaj021/leetcode-java/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/HarshRaj021/leetcode-java/tree/master/1386-cinema-seat-allocation) |
 ## Dynamic Programming
 |  |
 | ------- |
