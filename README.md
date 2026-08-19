@@ -27,6 +27,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | ------- |
 | [0001-two-sum](https://github.com/HarshRaj021/leetcode-java/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HarshRaj021/leetcode-java/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/HarshRaj021/leetcode-java/tree/master/0014-longest-common-prefix) |
 | [1386-cinema-seat-allocation](https://github.com/HarshRaj021/leetcode-java/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0008-string-to-integer-atoi](https://github.com/HarshRaj021/leetcode-java/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/HarshRaj021/leetcode-java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HarshRaj021/leetcode-java/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/HarshRaj021/leetcode-java/tree/master/0014-longest-common-prefix) |
 | [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 ## Sliding Window
 |  |
@@ -104,4 +106,8 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/HarshRaj021/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/HarshRaj021/leetcode-java/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
