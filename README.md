@@ -56,6 +56,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0013-roman-to-integer](https://github.com/HarshRaj021/leetcode-java/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/HarshRaj021/leetcode-java/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/HarshRaj021/leetcode-java/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/HarshRaj021/leetcode-java/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/HarshRaj021/leetcode-java/tree/master/0509-fibonacci-number) |
 | [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 | [3536-maximum-product-of-two-digits](https://github.com/HarshRaj021/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
@@ -79,6 +80,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshRaj021/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/HarshRaj021/leetcode-java/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/HarshRaj021/leetcode-java/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/HarshRaj021/leetcode-java/tree/master/0067-add-binary) |
 | [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 ## Sliding Window
 |  |
@@ -88,6 +90,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/HarshRaj021/leetcode-java/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/HarshRaj021/leetcode-java/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/HarshRaj021/leetcode-java/tree/master/1386-cinema-seat-allocation) |
 ## Two Pointers
 |  |
@@ -158,6 +161,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/HarshRaj021/leetcode-java/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/HarshRaj021/leetcode-java/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
 | ------- |
