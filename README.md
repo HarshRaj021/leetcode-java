@@ -77,6 +77,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0022-generate-parentheses](https://github.com/HarshRaj021/leetcode-java/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshRaj021/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/HarshRaj021/leetcode-java/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/HarshRaj021/leetcode-java/tree/master/0058-length-of-last-word) |
 | [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 ## Sliding Window
 |  |
