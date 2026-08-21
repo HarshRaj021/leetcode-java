@@ -30,6 +30,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0014-longest-common-prefix](https://github.com/HarshRaj021/leetcode-java/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshRaj021/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshRaj021/leetcode-java/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/HarshRaj021/leetcode-java/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/HarshRaj021/leetcode-java/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/HarshRaj021/leetcode-java/tree/master/0066-plus-one) |
 | [1386-cinema-seat-allocation](https://github.com/HarshRaj021/leetcode-java/tree/master/1386-cinema-seat-allocation) |
@@ -102,6 +103,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshRaj021/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshRaj021/leetcode-java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshRaj021/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/HarshRaj021/leetcode-java/tree/master/0031-next-permutation) |
 ## Greedy
 |  |
 | ------- |
