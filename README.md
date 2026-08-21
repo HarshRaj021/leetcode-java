@@ -31,6 +31,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshRaj021/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshRaj021/leetcode-java/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/HarshRaj021/leetcode-java/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/HarshRaj021/leetcode-java/tree/master/0066-plus-one) |
 | [1386-cinema-seat-allocation](https://github.com/HarshRaj021/leetcode-java/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0013-roman-to-integer](https://github.com/HarshRaj021/leetcode-java/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/HarshRaj021/leetcode-java/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/HarshRaj021/leetcode-java/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/HarshRaj021/leetcode-java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HarshRaj021/leetcode-java/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/HarshRaj021/leetcode-java/tree/master/0509-fibonacci-number) |
 | [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
