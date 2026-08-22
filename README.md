@@ -48,6 +48,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshRaj021/leetcode-java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/HarshRaj021/leetcode-java/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/HarshRaj021/leetcode-java/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshRaj021/leetcode-java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/HarshRaj021/leetcode-java/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/HarshRaj021/leetcode-java/tree/master/0024-swap-nodes-in-pairs) |
 | [0509-fibonacci-number](https://github.com/HarshRaj021/leetcode-java/tree/master/0509-fibonacci-number) |
 ## String
 |  |
