@@ -61,6 +61,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0043-multiply-strings](https://github.com/HarshRaj021/leetcode-java/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/HarshRaj021/leetcode-java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HarshRaj021/leetcode-java/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/HarshRaj021/leetcode-java/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/HarshRaj021/leetcode-java/tree/master/0509-fibonacci-number) |
 | [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 | [3536-maximum-product-of-two-digits](https://github.com/HarshRaj021/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
@@ -173,4 +174,9 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HarshRaj021/leetcode-java/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/HarshRaj021/leetcode-java/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/HarshRaj021/leetcode-java/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
