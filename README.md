@@ -64,6 +64,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0066-plus-one](https://github.com/HarshRaj021/leetcode-java/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HarshRaj021/leetcode-java/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HarshRaj021/leetcode-java/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/HarshRaj021/leetcode-java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/HarshRaj021/leetcode-java/tree/master/0509-fibonacci-number) |
 | [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 | [3536-maximum-product-of-two-digits](https://github.com/HarshRaj021/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
@@ -122,6 +123,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0005-longest-palindromic-substring](https://github.com/HarshRaj021/leetcode-java/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/HarshRaj021/leetcode-java/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/HarshRaj021/leetcode-java/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/HarshRaj021/leetcode-java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/HarshRaj021/leetcode-java/tree/master/0509-fibonacci-number) |
 | [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 ## Manacher
@@ -131,6 +133,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/HarshRaj021/leetcode-java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/HarshRaj021/leetcode-java/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
