@@ -32,6 +32,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0027-remove-element](https://github.com/HarshRaj021/leetcode-java/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/HarshRaj021/leetcode-java/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/HarshRaj021/leetcode-java/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/HarshRaj021/leetcode-java/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HarshRaj021/leetcode-java/tree/master/0066-plus-one) |
 | [1386-cinema-seat-allocation](https://github.com/HarshRaj021/leetcode-java/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0013-roman-to-integer](https://github.com/HarshRaj021/leetcode-java/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/HarshRaj021/leetcode-java/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/HarshRaj021/leetcode-java/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/HarshRaj021/leetcode-java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HarshRaj021/leetcode-java/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/HarshRaj021/leetcode-java/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HarshRaj021/leetcode-java/tree/master/0066-plus-one) |
@@ -192,4 +194,8 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HarshRaj021/leetcode-java/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/HarshRaj021/leetcode-java/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
