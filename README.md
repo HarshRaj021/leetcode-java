@@ -32,6 +32,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0027-remove-element](https://github.com/HarshRaj021/leetcode-java/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/HarshRaj021/leetcode-java/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/HarshRaj021/leetcode-java/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/HarshRaj021/leetcode-java/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/HarshRaj021/leetcode-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HarshRaj021/leetcode-java/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/HarshRaj021/leetcode-java/tree/master/0066-plus-one) |
@@ -177,6 +178,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshRaj021/leetcode-java/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/HarshRaj021/leetcode-java/tree/master/0040-combination-sum-ii) |
 ## Simulation
 |  |
 | ------- |
