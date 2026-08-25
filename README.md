@@ -44,6 +44,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshRaj021/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/HarshRaj021/leetcode-java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HarshRaj021/leetcode-java/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/HarshRaj021/leetcode-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1386-cinema-seat-allocation](https://github.com/HarshRaj021/leetcode-java/tree/master/1386-cinema-seat-allocation) |
 | [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 ## Linked List
@@ -90,6 +91,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0012-integer-to-roman](https://github.com/HarshRaj021/leetcode-java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HarshRaj021/leetcode-java/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HarshRaj021/leetcode-java/tree/master/0014-longest-common-prefix) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/HarshRaj021/leetcode-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/HarshRaj021/leetcode-java/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HarshRaj021/leetcode-java/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshRaj021/leetcode-java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -177,6 +179,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/HarshRaj021/leetcode-java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HarshRaj021/leetcode-java/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/HarshRaj021/leetcode-java/tree/master/0040-combination-sum-ii) |
 ## Simulation
