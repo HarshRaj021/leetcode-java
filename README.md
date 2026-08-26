@@ -35,6 +35,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0040-combination-sum-ii](https://github.com/HarshRaj021/leetcode-java/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/HarshRaj021/leetcode-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HarshRaj021/leetcode-java/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/HarshRaj021/leetcode-java/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/HarshRaj021/leetcode-java/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/HarshRaj021/leetcode-java/tree/master/0074-search-a-2d-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/HarshRaj021/leetcode-java/tree/master/1386-cinema-seat-allocation) |
@@ -134,6 +135,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0005-longest-palindromic-substring](https://github.com/HarshRaj021/leetcode-java/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/HarshRaj021/leetcode-java/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/HarshRaj021/leetcode-java/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/HarshRaj021/leetcode-java/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/HarshRaj021/leetcode-java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/HarshRaj021/leetcode-java/tree/master/0509-fibonacci-number) |
 | [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
@@ -210,5 +212,6 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | ------- |
 | [0048-rotate-image](https://github.com/HarshRaj021/leetcode-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HarshRaj021/leetcode-java/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/HarshRaj021/leetcode-java/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/HarshRaj021/leetcode-java/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
