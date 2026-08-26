@@ -36,6 +36,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0048-rotate-image](https://github.com/HarshRaj021/leetcode-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HarshRaj021/leetcode-java/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/HarshRaj021/leetcode-java/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/HarshRaj021/leetcode-java/tree/master/0074-search-a-2d-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/HarshRaj021/leetcode-java/tree/master/1386-cinema-seat-allocation) |
 ## Hash Table
 |  |
@@ -193,6 +194,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | ------- |
 | [0035-search-insert-position](https://github.com/HarshRaj021/leetcode-java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/HarshRaj021/leetcode-java/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/HarshRaj021/leetcode-java/tree/master/0074-search-a-2d-matrix) |
 ## Newton's Method
 |  |
 | ------- |
@@ -206,4 +208,5 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | ------- |
 | [0048-rotate-image](https://github.com/HarshRaj021/leetcode-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HarshRaj021/leetcode-java/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/HarshRaj021/leetcode-java/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
