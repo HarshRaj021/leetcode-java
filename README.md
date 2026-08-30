@@ -33,6 +33,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0027-remove-element](https://github.com/HarshRaj021/leetcode-java/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/HarshRaj021/leetcode-java/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/HarshRaj021/leetcode-java/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/HarshRaj021/leetcode-java/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/HarshRaj021/leetcode-java/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/HarshRaj021/leetcode-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HarshRaj021/leetcode-java/tree/master/0054-spiral-matrix) |
@@ -48,6 +49,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0012-integer-to-roman](https://github.com/HarshRaj021/leetcode-java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HarshRaj021/leetcode-java/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshRaj021/leetcode-java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/HarshRaj021/leetcode-java/tree/master/0036-valid-sudoku) |
 | [1386-cinema-seat-allocation](https://github.com/HarshRaj021/leetcode-java/tree/master/1386-cinema-seat-allocation) |
 | [2266-count-number-of-texts](https://github.com/HarshRaj021/leetcode-java/tree/master/2266-count-number-of-texts) |
 ## Linked List
@@ -212,6 +214,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/HarshRaj021/leetcode-java/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/HarshRaj021/leetcode-java/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HarshRaj021/leetcode-java/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/HarshRaj021/leetcode-java/tree/master/0064-minimum-path-sum) |
