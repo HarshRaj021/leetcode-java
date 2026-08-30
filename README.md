@@ -26,6 +26,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshRaj021/leetcode-java/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarshRaj021/leetcode-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/HarshRaj021/leetcode-java/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/HarshRaj021/leetcode-java/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshRaj021/leetcode-java/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -196,6 +197,7 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarshRaj021/leetcode-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/HarshRaj021/leetcode-java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/HarshRaj021/leetcode-java/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/HarshRaj021/leetcode-java/tree/master/0074-search-a-2d-matrix) |
@@ -214,4 +216,8 @@ A collection of my LeetCode solutions written in **Java**, focused on Data Struc
 | [0054-spiral-matrix](https://github.com/HarshRaj021/leetcode-java/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/HarshRaj021/leetcode-java/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/HarshRaj021/leetcode-java/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarshRaj021/leetcode-java/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
